@@ -5,6 +5,11 @@
 * Components 1-3 (Text Q&A Chatbot): Main script in `interactive_odyssey_chatbot.py`
 * Component 4 (Python Library Chatbot): Main script in `interactive_python_documentation_chatbot.py`
 
+## Notebook
+
+* The Jupyter Notebook (`notebooks/RAG-Practice.ipynb`) was used to develop step by step both solutions.
+* You may try to run the Notebook, but it is better to run the apps directly from CLI.
+
 ### Text Q&A Chatbot
 
 *  Text chosen: Odyssey (.txt file)
